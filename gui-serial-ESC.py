@@ -79,7 +79,7 @@ def set_direction():
 
 # Create the window
 root = tk.Tk()
-root.title('Reflex Drive')
+root.title('GUI')
 root.geometry("400x500")  
 
 # Status label to display messages
